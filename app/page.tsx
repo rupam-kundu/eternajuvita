@@ -17,7 +17,7 @@ export default function Home() {
   }, []);
 
   return (
-    <div className='bg-[#ffffff]'>
+    <div className='bg-white'>
       <Header />
       <Hero />
       <Services />
